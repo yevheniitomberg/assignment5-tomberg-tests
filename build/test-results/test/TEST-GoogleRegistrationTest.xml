@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="GoogleRegistrationTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-03-26T16:47:57" hostname="MSI" time="4.229">
+  <properties/>
+  <testcase name="testRegistration()" classname="GoogleRegistrationTest" time="4.229"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 111.0.5563.64 (c710e93d5b63b7095afe8c2c17df34408078439d-refs/branch-heads/5563@{#995}) on port 44731
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Mar 26, 2023 7:47:58 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 111, so returning the closest version found: 109
+]]></system-err>
+</testsuite>
